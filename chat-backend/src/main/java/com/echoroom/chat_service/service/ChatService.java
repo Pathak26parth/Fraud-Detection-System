@@ -13,14 +13,23 @@ import java.time.LocalDateTime;
 public class ChatService {
     @Autowired
     RoomRepository roomRepository;
+    
+    @Autowired
+    SpamDetectionService spamDetectionService;
 
     public Message sendMessage(MessageRequest request){
         Room room = roomRepository.findByRoomId(request.getRoomId());
+
+        // Detect spam before creating message
+        SpamDetectionService.SpamDetectionResult spamResult = 
+            spamDetectionService.detectSpam(request.getContent());
 
         Message message = new Message();
         message.setContent(request.getContent());
         message.setSender(request.getSender());
         message.setTimeStamp(LocalDateTime.now());
+        message.setSpamLevel(spamResult.getSpamLevel());
+        message.setIsSpam(spamResult.isSpam());
 
         if(room != null){
             room.getMessage().add(message);
