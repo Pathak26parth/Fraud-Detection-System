@@ -337,9 +337,10 @@ Tailwind CSS styling
 
 <div align="center">
 
-| Chat Interface | Spam Alert | Mobile View |
-|---------------|------------|-------------|
-| ![Chat Interface](docs/screenshots/chat-interface.png) | ![Spam Alert](docs/screenshots/spam-alert.png) | ![Mobile View](docs/screenshots/mobile-view.png) |
+<img width="1907" height="832" alt="image" src="https://github.com/user-attachments/assets/a2a5438d-feb2-45d4-8d88-eb9bbe589446" />
+<img width="1911" height="839" alt="image" src="https://github.com/user-attachments/assets/0cd1d7af-2c47-423f-8699-157ccc75e2a1" />
+
+
 
 </div>
 
@@ -463,9 +464,6 @@ Try these sample messages to test the system:
 
 </td>
 <td align="center" width="33%">
-
-**⚠️ Medium Spam Probability**  
-`"Free money! Limited time offer!"`
 
 </td>
 <td align="center" width="33%">
@@ -621,22 +619,7 @@ Implement transformer-based models
 </td>
 <td align="center" width="33%">
 
-**📊 Analytics Dashboard**  
-Real-time fraud statistics
 
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**📱 Mobile App**  
-Native iOS/Android applications
-
-</td>
-<td align="center" width="33%">
-
-**🔗 Blockchain Integration**  
-Immutable fraud records
 
 </td>
 <td align="center" width="33%">
@@ -661,7 +644,7 @@ Allow users to report false positives
 <td align="center" width="25%">
 
 **👨‍💻 Lead Developer**  
-[Your Name]
+[Afzhal Surti]
 
 </td>
 <td align="center" width="25%">
@@ -697,15 +680,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### *Grateful for the Community*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🏫 DAIICT**  
 Platform and resources
 
 </td>
@@ -743,13 +717,13 @@ Frontend library
 <td align="center" width="50%">
 
 **📧 Email Support**  
-[your-email@example.com]
+[parthpathak3.14@gmail.com]
 
 </td>
 <td align="center" width="50%">
 
 **🐛 Issue Tracker**  
-[GitHub Issues](https://github.com/yourusername/fraud-detection-system/issues)
+[GitHub Issues](https://github.com/Pathak26parth/fraud-detection-system/issues)
 
 </td>
 </tr>
@@ -759,12 +733,4 @@ Frontend library
 
 <div align="center">
 
-## ⭐ **Star this repository if you found it helpful!**
 
-### *Made with ❤️ for the hackathon community*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/fraud-detection-system?style=social)](https://github.com/yourusername/fraud-detection-system)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/fraud-detection-system?style=social)](https://github.com/yourusername/fraud-detection-system)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/fraud-detection-system?style=social)](https://github.com/yourusername/fraud-detection-system)
-
-</div>
