@@ -13,13 +13,6 @@
 
 ---
 
-### 🏆 **HACKATHON WINNER** 🏆
-*Real-time AI-powered fraud detection integrated with modern chat application*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](#-quick-start)
-[![Documentation](https://img.shields.io/badge/Documentation-2196F3?style=for-the-badge&logo=gitbook&logoColor=white)](#-api-documentation)
-[![Try It](https://img.shields.io/badge/Try%20It-4CAF50?style=for-the-badge&logo=play&logoColor=white)](#-testing)
-
 </div>
 
 ## 🎯 Project Overview
