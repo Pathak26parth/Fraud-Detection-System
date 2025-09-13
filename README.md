@@ -644,7 +644,7 @@ Allow users to report false positives
 <td align="center" width="25%">
 
 **👨‍💻 Lead Developer**  
-[Afzhal Surti]
+Afzal Surti
 
 </td>
 <td align="center" width="25%">
