@@ -650,19 +650,19 @@ Allow users to report false positives
 <td align="center" width="25%">
 
 **🤖 AI/ML Engineer**  
-[Team Member]
+Parth Pathak
 
 </td>
 <td align="center" width="25%">
 
 **🎨 Frontend Developer**  
-[Team Member]
+Ronak Singh
 
 </td>
 <td align="center" width="25%">
 
 **⚙️ Backend Developer**  
-[Team Member]
+Ronak Singh
 
 </td>
 </tr>
